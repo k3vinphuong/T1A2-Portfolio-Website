@@ -1,0 +1,92 @@
+:root {
+    --spun-pearl-50: #f6f6f7;
+    --spun-pearl-100: #eeeef1;
+    --spun-pearl-200: #e0e0e5;
+    --spun-pearl-300: #cdccd5;
+    --spun-pearl-400: #b8b6c3;
+    --spun-pearl-500: #aeabb9;
+    --spun-pearl-600: #928d9e;
+    --spun-pearl-700: #7e7989;
+    --spun-pearl-800: #676370;
+    --spun-pearl-900: #55535c;
+    --spun-pearl-950: #323036;
+
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+* {
+    margin: 0;
+}
+
+header {
+    background-color: var(--spun-pearl-800);
+    width: 100%;
+    height: 10dvh;
+    font-size: x-large;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    text-align: center;
+
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+main {
+    min-height: 85dvh;
+    background-color:var(--spun-pearl-500);
+    width: 100%;
+    background: url(./docs/cat1.jpeg) no-repeat top center fixed;
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-size: 50px;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+nav > a {
+    text-decoration: none;
+    background-color: var(--spun-pearl-700);
+    color: #323036;
+    padding: 0.1em;
+}
+
+nav > a:hover {
+    background-color: var(--spun-pearl-500);
+}
+
+footer {
+    background-color: var(--spun-pearl-800);
+    height: 5dvh;
+    width: 100%;
+    font-size: x-large;
+    color: var(--spun-pearl-100);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: baseline;
+}
+
+main > * {
+    margin: 1em;
+}
+
+main > img {
+    height: auto;
+    width: 100%;
+    margin: 0.1em;
+
+    
+}
