@@ -33,7 +33,9 @@ To allow the webpage to function properly and seaminglessly to provide the best 
 
 ## Sitemap
 
-[Sitemap Link](<img src="./docs/Sitemap.png")
+[Sitemap Link](./docs/Sitemap.png")
+
+The sitemap provided above shows that the main home page will be the hub for everything else and other pages will be accessible from the home page through the nav bar. From the navbar, the personality, blogs and skills page can be accessed. The blog page which can be accessed from the navbar contains all the blogs from blog 1 through to blog 5.
 
 ---
 
