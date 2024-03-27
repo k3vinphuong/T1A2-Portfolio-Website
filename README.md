@@ -2,9 +2,9 @@
 
 ## Links And Clip
 
-- [Netlify Link]
+- [Netlify Link](https://kevinphuong.netlify.app/)
 
-- [Github Repository]
+- [Github Repository](https://github.com/k3vinphuong/T1A2-Portfolio-Website)
 
 - Presentation Link
 

@@ -28,7 +28,6 @@ header {
     justify-content: space-evenly;
     align-items: center;
     text-align: center;
-
 }
 
 body {
@@ -54,30 +53,6 @@ main {
     justify-content: center;
 }
 
-main.Home {
-    background: url(./docs/cat1.jpeg) no-repeat 10% 40% fixed;
-    background-size: cover;
-}
-    
-
-main.Personality {
-    background: url(./docs/cat2.jpeg) no-repeat 10% 40% fixed;
-    background-size: cover;
-}
-
-main.Skills {
-    background: url(./docs/cat3.jpg) no-repeat top center fixed;
-    background-size: cover; 
-    color:var(--spun-pearl-600);
-}
-
-main > p {
-    font-size: x-large;
-    color: var(--spun-pearl-100);
-    background-color: var(--spun-pearl-800);
-    width: 100%;
-}
-
 nav > a {
     text-decoration: none;
     background-color: var(--spun-pearl-700);
@@ -95,49 +70,7 @@ footer {
     width: 100%;
 }
 
-main > * {
-    margin: 1em;
-}
-
-main > img {
-    height: auto;
-    width: 100%;
-    margin: 0.1em;
-}
-
-ul {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-}
-
-.contact-wrapper {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    max-width: 50%;
-    padding: 10px;
-    flex-grow: 1;
-    height: 40%;
-    font: x-small;
-}
-
-.icon-wrapper {
-    display: flex;
-    flex-direction: column;
-    align-items: flex-end;
-    justify-content: center;
-    flex-grow: 1;
-    max-width: 70%;
-    height: 40%;
-}
-
-#icon-01 {
-    background-image: url(./docs/Github.png);
-}
-
-#icon-02 {
-    background-image: url(./docs/Linkedin.png);
+#dark-purple {
+    background-color: var(--spun-pearl-900);
+    color: white;
 }
