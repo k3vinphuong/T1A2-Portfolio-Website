@@ -53,6 +53,32 @@ main {
     justify-content: center;
 }
 
+.polaroid {
+    width: 80%;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-bottom: 25px;
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+
+.date {
+    font-size: small;
+}
+
+.text {
+    font-size: medium;
+}
+
+
+.container {
+    text-align: center;
+    padding: 10px 20px;
+}
+
 nav > a {
     text-decoration: none;
     background-color: var(--spun-pearl-700);
@@ -68,6 +94,14 @@ footer {
     background-color: var(--spun-pearl-800);
     height: 10dvh;
     width: 100%;
+}
+
+.polaroid > p {
+    color: black;
+}
+
+.polaroid > h3 {
+    color: black;
 }
 
 #dark-purple {
