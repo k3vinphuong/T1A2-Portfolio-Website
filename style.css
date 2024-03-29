@@ -92,7 +92,14 @@ nav > a:hover {
 footer {
     background-color: var(--spun-pearl-800);
     height: 10dvh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
     width: 100%;
+}
+
+h6 {
+    font-size: medium;
 }
 
 main > * {
@@ -126,18 +133,39 @@ ul {
 
 .icon-wrapper {
     display: flex;
-    flex-direction: column;
-    align-items: flex-end;
-    justify-content: center;
+    align-items: center;
+    justify-content: space-around;
     flex-grow: 1;
     max-width: 70%;
     height: 40%;
 }
 
 #icon-01 {
-    background-image: url(./docs/Github.png);
+    background-image: url(/docs/github.svg)
 }
+
+.icon-properties {
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    flex-grow: 1;
+    height: 100%;
+}
+
 
 #icon-02 {
     background-image: url(./docs/Linkedin.png);
+}
+
+
+
+
+
+
+
+
+@media screen  and (min-width: 480px) {
+  footer {
+    font-size: large;
+  }
 }
