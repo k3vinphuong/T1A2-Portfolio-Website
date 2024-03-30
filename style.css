@@ -55,18 +55,18 @@ main {
 }
 
 main.Home {
-    background: url(./docs/cat1.jpeg) no-repeat 10% 40% fixed;
+    background: url(./src/img/cat1.jpeg) no-repeat 10% 40% fixed;
     background-size: cover;
 }
     
 
 main.Personality {
-    background: url(./docs/cat2.jpeg) no-repeat 10% 40% fixed;
+    background: url(./src/img/cat2.jpeg) no-repeat 10% 40% fixed;
     background-size: cover;
 }
 
 main.Skills {
-    background: url(./docs/cat3.jpg) no-repeat top center fixed;
+    background: url(./src/img/cat3.jpg) no-repeat top center fixed;
     background-size: cover; 
     color:var(--spun-pearl-600);
 }
@@ -141,7 +141,7 @@ ul {
 }
 
 #icon-01 {
-    background-image: url(../t1a2portfoliowebsite/docs/github.svg);
+    background-image: url(./src/img/github.svg);
 }
 
 .icon-properties {
@@ -154,7 +154,7 @@ ul {
 
 
 #icon-02 {
-    background-image: url(./docs/Linkedin.png);
+    background-image: url(./src/img/Linkedin.png);
 }
 
 
