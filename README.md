@@ -27,10 +27,6 @@ To allow the webpage to function properly and seaminglessly to provide the best 
 
 ---
 
-## Screenshots
-
----
-
 ## Sitemap
 
 ![Sitemap Link](./docs/Sitemap.png")
@@ -91,6 +87,8 @@ This page is the most different page with a very different layout compared to th
 
 ![Mobile wireframe of blogs](./docs/Mobile%20View.pdf)
 
+---
+
 ## Target Audience
 
 The target audience for this website will be for any company wishing to employ a juniopr developer and trying to find something that allows them to see their skills in this tech field. Other target audience can include small businesses who want an example of what they would want when creating a website or when upgrading a preexisting website.
@@ -104,5 +102,9 @@ The target audience for this website will be for any company wishing to employ a
 - Netlify
 - Github
 - Figma
+
+---
+
+## Screenshots
 
 ---
