@@ -131,34 +131,15 @@ ul {
     font: x-small;
 }
 
-.icon-wrapper {
-    display: flex;
-    align-items: center;
-    justify-content: space-around;
-    flex-grow: 1;
-    max-width: 70%;
-    height: 40%;
-}
-
 #icon-01 {
-    background-image: url(./src/img/github.svg);
-}
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
 
-.icon-properties {
-    background-position: center;
-    background-size: contain;
-    background-repeat: no-repeat;
-    flex-grow: 1;
     height: 100%;
+    width: auto;
 }
-
-
-#icon-02 {
-    background-image: url(./src/img/Linkedin.png);
-}
-
-
-
 
 
 @media screen  and (min-width: 480px) {
