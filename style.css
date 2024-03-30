@@ -57,7 +57,7 @@ main {
 img {
     max-width: 70%;
     border-style: double;
-    margin: 1em;
+    margin: 0.5em;
 }
 
 main.Home {
@@ -98,10 +98,14 @@ nav > a:hover {
 footer {
     background-color: var(--spun-pearl-800);
     height: 10dvh;
+    width: 100%;
     display: flex;
     align-items: center;
     justify-content: center;
-    width: 100%;
+}
+
+.icons {
+    font-size: xx-large;
 }
 
 h6 {
@@ -137,13 +141,13 @@ ul {
     font: x-small;
 }
 
+#copyright {
+    font-size: 1.25em;
+    font-weight: 700;
+}
+
 @media screen  and (min-width: 480px) {
   header {
     font-size: x-large;
   }
-  
-    h6 {
-    font-size: large;
-  }
 }
-

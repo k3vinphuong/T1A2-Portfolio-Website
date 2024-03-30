@@ -74,7 +74,6 @@ main {
     font-size: medium;
 }
 
-
 .container {
     text-align: center;
     padding: 10px 20px;
@@ -100,6 +99,10 @@ footer {
     width: 100%;
 }
 
+.icons {
+    font-size: xx-large;
+}
+
 .polaroid > p {
     color: black;
 }
@@ -119,5 +122,9 @@ footer {
         width: 50%;
         height: auto;
    }
+   
+    header {
+    font-size: x-large;
+  }
   }
   
