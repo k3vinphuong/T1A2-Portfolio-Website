@@ -99,7 +99,7 @@ footer {
 }
 
 h6 {
-    font-size: medium;
+    font-size: x-small;
 }
 
 main > * {
@@ -141,7 +141,7 @@ ul {
 }
 
 #icon-01 {
-    background-image: url(/docs/github.svg)
+    background-image: url(../t1a2portfoliowebsite/docs/github.svg);
 }
 
 .icon-properties {
@@ -161,11 +161,9 @@ ul {
 
 
 
-
-
-
 @media screen  and (min-width: 480px) {
-  footer {
+  h6 {
     font-size: large;
   }
 }
+
