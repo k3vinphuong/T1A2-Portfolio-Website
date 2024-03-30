@@ -22,7 +22,7 @@ header {
     background-color: var(--spun-pearl-800);
     width: 100%;
     height: 10dvh;
-    font-size: x-large;
+    font-size: large;
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
@@ -52,6 +52,12 @@ main {
     flex-direction: column;
     align-items: center;
     justify-content: center;
+}
+
+img {
+    max-width: 70%;
+    border-style: double;
+    margin: 1em;
 }
 
 main.Home {
@@ -131,19 +137,12 @@ ul {
     font: x-small;
 }
 
-#icon-01 {
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    align-items: center;
-
-    height: 100%;
-    width: auto;
-}
-
-
 @media screen  and (min-width: 480px) {
-  h6 {
+  header {
+    font-size: x-large;
+  }
+  
+    h6 {
     font-size: large;
   }
 }

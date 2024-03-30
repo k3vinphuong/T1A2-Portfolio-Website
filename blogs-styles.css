@@ -94,6 +94,9 @@ nav > a:hover {
 footer {
     background-color: var(--spun-pearl-800);
     height: 10dvh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
     width: 100%;
 }
 
