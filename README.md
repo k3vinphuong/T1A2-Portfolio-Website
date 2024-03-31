@@ -41,15 +41,15 @@ Wireframes for both desktop and mobile view were created through the use of Figm
 
 ### Page Explanation: Homepage
 
-The hompage is the most simplistic design having a header, main body with a title and a footer. The heading includes a navbar which leads to all the pages and the other pages can be accessed through this navbar. The Main body includes an image as the background and a title which includes the page developers name and a simple introduction. The footer is compiled of the webpage developers contact details and professional sources including their email, contact information, Github profile, Linkedin and resume.
+The hompage is the most simplistic design having a header, main body with a title and a footer. The heading includes a navbar which leads to all the pages and the other pages can be accessed through this navbar. The Main body includes an image as the background and a title which includes the page developers name and a simple introduction. The footer is compiled of 3 icons for aesthetic purposes which will later be expanded in the contacts page, these include a Linkedin icon, a Github icon and en envelope icon for emails.
 
 *Desktop View:*
 
-![Desktop wireframe of homepage](./docs/Desktop%20View.pdf)
+![Desktop wireframe of homepage](./docs/Wireframe%20Desktop%20Home.PNG)
 
 *Mobile View:*
 
-![Mobile wireframe of homepage](./docs/Mobile%20View.pdf)
+![Mobile wireframe of homepage](./docs/Wireframe%20Mobile%20Home.PNG)
 
 ### Page Explanation: Personality
 
@@ -57,11 +57,11 @@ This page is similar to the homepage in that it includes the same navbar in the 
 
 *Desktop View:*
 
-![Desktop wireframe of personality page](./docs/Desktop%20View.pdf)
+![Desktop wireframe of personality page](./docs/Wireframe%20Desktop%20Personality.PNG)
 
 *Mobile View:*
 
-![Mobile wireframe of personality page](./docs/Mobile%20View.pdf)
+![Mobile wireframe of personality page](./docs/Wireframe%20Mobile%20Personality.PNG)
 
 ### Page Explanation: SKills/Experience
 
@@ -69,11 +69,11 @@ This page is the same as the personality page with all its properties with the o
 
 *Desktop View:*
 
-![Desktop wireframe of skills/experience page](./docs/Desktop%20View.pdf)
+![Desktop wireframe of skills/experience page](./docs/Wireframe%20Desktop%20Skills.PNG)
 
 *Mobile View:*
 
-![Mobile wireframe of skills/experience page](./docs/Mobile%20View.pdf)
+![Mobile wireframe of skills/experience page](./docs/Wireframe%20Mobile%20Skills.PNG)
 
 ### Page Explanation: Blogs
 
@@ -81,13 +81,23 @@ This page is the most different page with a very different layout compared to th
 
 *Desktop View:*
 
-![Desktop wireframe of blogs](./docs/Desktop%20View.pdf)
+![Desktop wireframe of blogs](./docs/Wireframe%20Desktop%20Blogs.PNG)
 
 *Mobile View:*
 
-![Mobile wireframe of blogs](./docs/Mobile%20View.pdf)
+![Mobile wireframe of blogs](./docs/Wireframe%20Mobile%20Blogs.PNG)
 
----
+### Page Explanation: Contact
+
+This page has similar layouts to the other pages in that there is the same navbar in the heading. The body differs in that there is a singular image and not an image in the background. This image is then followed by 3 links which expand on the 3 icons that are in the other pages footer. The footer for the contact page is different to the other pages in that it has my name and year instead of the the three icons.
+
+*Desktop View:*
+
+![Desktop wireframe of contact page](./docs/Wireframe%20Desktop%20Contact.PNG)
+
+*Mobile View:*
+
+![Mobile wireframe of contact page](./docs/Wireframe%20Mobile%20Contact.PNG)
 
 ## Target Audience
 
