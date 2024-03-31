@@ -6,7 +6,7 @@
 
 - [Github Repository](https://github.com/k3vinphuong/T1A2-Portfolio-Website)
 
-- Presentation Link
+- [Presentation Link](https://youtu.be/usKUCkQF5TQ)
 
 ---
 
@@ -106,5 +106,55 @@ The target audience for this website will be for any company wishing to employ a
 ---
 
 ## Screenshots
+
+### Homepage
+
+*Desktop View:*
+
+![Desktop screenshot of homwepage](./docs/Screenshot%20Desktop%20Home.PNG)
+
+*Mobile View:*
+
+![Mobile screenshot of homepage](./docs/Screenshot%20Mobile%20Home.PNG)
+
+### Personality page
+
+*Desktop View:*
+
+![Desktop screenshot of personality page](./docs/Screenshot%20Desktop%20Personality.PNG)
+
+*Mobile View:*
+
+![Mobile screenshot of personality page](./docs/Screenshot%20Mobile%20Personality.PNG)
+
+### Skills page
+
+*Desktop View:*
+
+![Desktop screenshot of skills page](./docs/Screenshot%20Desktop%20Skills.PNG)
+
+*Mobile View:*
+
+![Mobile screenshot of skills page](./docs/Screenshot%20Mobile%20Skills.PNG)
+
+### Blogs page
+
+*Desktop View:*
+
+![Desktop screenshot of blogs page](./docs/Screenshot%20Desktop%20Blog.PNG)
+
+*Mobile View:*
+
+![Mobile screenshot of blogs page](./docs/Screenshot%20Mobile%20Blogs.PNG)
+
+### Contact page
+
+*Desktop View:*
+
+![Desktop screenshot of contact page](./docs/Screenshot%20Desktop%20Contact.PNG)
+
+*Mobile View:*
+
+![Mobile screenshot of contact page](./docs/Screenshot%20Mobile%20Contact.PNG)
 
 ---
